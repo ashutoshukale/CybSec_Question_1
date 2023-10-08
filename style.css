@@ -1,0 +1,8 @@
+body {
+ /* background-image: url("robotsteg.jpg"); */
+ background-color: #cccccc;
+}
+img{
+  max-height:fit-content;
+  max-width: 100%;
+}
